@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/suzanadongol/C-program/assignment-1-sdongol4767-coder/assignment-3-array-string-and-functions-sdongol4767-coder/src/q15'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _countOccurrences, symObjAddr: 0x0, symBinAddr: 0x100003D80, symSize: 0xB0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _countOccurrences, symObjAddr: 0x0, symBinAddr: 0x100003D80, symSize: 0xB0 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xB0, symBinAddr: 0x100003E30, symSize: 0xD8 }
+...
