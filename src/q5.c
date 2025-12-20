@@ -1,1 +1,0 @@
-// Write a C program to merge two sorted arrays into a single sorted array.
